@@ -149,4 +149,4 @@ Sara Sohrabi
 Data Science | Machine Learning | Insurance Analytics | BI & Data Warehouse
 
 
-![Customer Segmentation Architecture](images/customer_segmentation_architecture.png)
+![Customer Segmentation Architecture]customer_segmentation_architecture.png 
